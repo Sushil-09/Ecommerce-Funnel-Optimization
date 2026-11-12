@@ -414,15 +414,4 @@ Planned enhancements include:
 - Add additional KPI monitoring
 - Improve dashboard interactivity with advanced filters and drill-through analysis
 
----
 
-# Author
-
-**Raj Aryan**
-
-GitHub: https://github.com/Raj-Aryan111
-
----
-
-## If you found this project useful, consider giving it a ⭐ on GitHub.
-# Ecommerce-Funnel-Optimization
